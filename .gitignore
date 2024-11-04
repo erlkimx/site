@@ -6,6 +6,5 @@ node_modules/
 public/
 .deploy*/
 .deploy_git*/ 
-.idea 
-theme/anzhiyu/.git
+.idea
 _multiconfig.yml
